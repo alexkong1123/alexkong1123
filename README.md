@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I work at [MEE9.tw](https://mee9.ga) 🏢
+- I work at [MEE9.tw](https://mee9.ga) and [CloudFree|免費托管](https://cloudfree.host) 🏢
 - Discord Bot Developer 💻
 - Pycord,Discord.py 📃
 
