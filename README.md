@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I work at [FlyBirdHost](https://flybirdhost.com) 🏢
+- I work at [FlyBirdHost](https://flybirdhost.net) 🏢
 - Discord Bot Developer 💻
 - Pycord,Discord.py 📃
 
